@@ -48,9 +48,9 @@ void datatypes() {
 		   | DATA TYPE                 |    SIZE IN BYTES    |          RANGE                               |
 		   |___________________________|_____________________|______________________________________________|
 		   |                           |                     |                                              |
-		   | -> short int              |      2 byte         |        -32,768 to 32,767                     | 
-		   | -> unsigned short int	   |      2 bytes        |              0 to 65535                      |  
-		   | -> unsigned int           |      4 bytes		 |              0 to 4,294,967,295              |
+		   | -> short int              |      2 byte         |        -32,768 to 32,767                     |
+		   | -> unsigned short int     |      2 bytes        |              0 to 65535                      |
+		   | -> unsigned int           |      4 bytes        |              0 to 4,294,967,295              |
 		   | -> int                    |      4 bytes        | -2,147,483,648 to 2,147,483,647              |
 		   | -> long int               |      4 bytes        | -2,147,483,648 to 2,147,483,647              |
 		   | -> unsigned long int      |      4 bytes        |              0 to 4,294,967,295              |
