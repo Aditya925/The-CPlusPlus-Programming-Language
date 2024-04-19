@@ -13,7 +13,7 @@ void variables() {
 			-> bool - stores values with two states: true or false
 	*/	
 
-	// Initialising a  variable to value zero
+	// Initialising a variable to value zero
 	int age{};	
 
 	// Initialising and assigning value to variable

@@ -129,7 +129,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1. Basics\1.Variables.cpp" />
+    <ClCompile Include="1. Basics\1. Variables.cpp" />
     <ClCompile Include="1. Basics\main.cpp" />
   </ItemGroup>
   <ItemGroup>
