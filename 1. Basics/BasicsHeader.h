@@ -4,3 +4,4 @@ import <iostream>;
 
 void variables();
 void datatypes();
+int function();
