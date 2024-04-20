@@ -7,5 +7,6 @@ int main() {
 	// variables();
 	// datatypes();
 	// function();
-	conditions();
+	// conditions();
+	// loops();
 }
