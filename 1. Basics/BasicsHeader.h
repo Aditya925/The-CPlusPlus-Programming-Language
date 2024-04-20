@@ -1,6 +1,6 @@
 #pragma once
 
-#include <iostream>
+import <iostream>;
 
 void variables();
 void datatypes();
