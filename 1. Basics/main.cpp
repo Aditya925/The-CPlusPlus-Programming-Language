@@ -6,5 +6,6 @@ int main() {
 
 	// variables();
 	// datatypes();
-	function();
+	// function();
+	conditions();
 }
