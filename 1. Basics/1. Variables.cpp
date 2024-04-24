@@ -1,7 +1,7 @@
 #include <iostream>
 #include "BasicsHeader.h"
 
-void variables() {
+void Variables() {
 
 	/*
 	    => Variables are containers for storing data values.

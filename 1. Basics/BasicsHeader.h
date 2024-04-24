@@ -2,8 +2,11 @@
 
 import <iostream>;
 
-void variables();
-void datatypes();
-int function();
-void conditions();
-void loops();
+void Variables();
+void Datatypes();
+int Function();
+void Conditions();
+void Loops();
+void Break_statement();
+void Continue_statement();
+void Goto_statement();

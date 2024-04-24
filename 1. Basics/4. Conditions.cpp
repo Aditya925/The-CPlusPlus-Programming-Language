@@ -1,7 +1,7 @@
 import <iostream>;
 #include "BasicsHeader.h"
 
-void conditions() {
+void Conditions() {
 	int age{23};
 	if (age < 18) {
 		std::cout << "Not an adult" << std::endl;

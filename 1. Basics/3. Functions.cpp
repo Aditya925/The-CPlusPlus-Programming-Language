@@ -20,7 +20,7 @@ int subtract(int a, int b) {
 }
 
 // Both the above funnctions are called here
-int function() {
+int Function() {
 	std::cout << add(2, 3) << std::endl;
 	subtract(3, 2);
 

@@ -28,7 +28,7 @@ void do_while() {
 	} while (i--);
 }
 
-void loops() {
+void Loops() {
 	while_loop();
 	std::cout << std::endl;
 	for_loop();

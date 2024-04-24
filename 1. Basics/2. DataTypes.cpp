@@ -1,7 +1,7 @@
 #include <iostream>
 #include "BasicsHeader.h"
 
-void datatypes() {
+void Datatypes() {
 
 	/*
 	     => Data Types
