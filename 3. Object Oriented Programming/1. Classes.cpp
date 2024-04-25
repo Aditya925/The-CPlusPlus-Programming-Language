@@ -2,10 +2,10 @@ import <iostream>;
 #include "OopHeader.h"
 
 /*
-	=> Class in C++ is the building block that leads to Object-Oriented programming. 
-	=> It is a user-defined data type, which holds its own data members and member functions, which 
+	-> Class in C++ is the building block that leads to Object-Oriented programming. 
+	-> It is a user-defined data type, which holds its own data members and member functions, which 
 	   can be accessed and used by creating an instance of that class. 
-	=> A C++ class is like a blueprint for an object.
+	-> A C++ class is like a blueprint for an object.
 */
 
 class Player {
