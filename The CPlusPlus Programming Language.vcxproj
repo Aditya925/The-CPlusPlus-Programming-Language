@@ -140,6 +140,7 @@
     <ClCompile Include="2. Memory Control\2. References.cpp" />
     <ClCompile Include="2. Memory Control\main.cpp" />
     <ClCompile Include="3. Object Oriented Programming\1. Classes.cpp" />
+    <ClCompile Include="3. Object Oriented Programming\2. Class Methods.cpp" />
     <ClCompile Include="3. Object Oriented Programming\main.cpp" />
   </ItemGroup>
   <ItemGroup>
