@@ -2,4 +2,7 @@
 
 import <iostream>;
 
+int main() {
 
+
+}

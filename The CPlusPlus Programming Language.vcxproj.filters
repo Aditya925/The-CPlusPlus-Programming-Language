@@ -48,6 +48,9 @@
     <ClCompile Include="2. Memory Control\2. References.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3. Object Oriented Programming\1. Classes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1. Basics\BasicsHeader.h">
