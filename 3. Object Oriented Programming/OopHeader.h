@@ -2,7 +2,4 @@
 
 import <iostream>;
 
-int main() {
-
-
-}
+void Class_Example();
