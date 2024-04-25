@@ -56,5 +56,8 @@
     <ClInclude Include="2. Memory Control\MemoryHeader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="3. Object Oriented Programming\OopHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
