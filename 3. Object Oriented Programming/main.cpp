@@ -3,5 +3,8 @@ import <iostream>;
 
 int main() {
 	
-	Class_Example();
+	// Class_Example();
+	// Inside_Class();
+	// Outside_Class();
+	// Parameters();
 }
