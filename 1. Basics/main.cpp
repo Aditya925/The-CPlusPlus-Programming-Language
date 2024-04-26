@@ -18,4 +18,6 @@ int main() {
 	// Continue_statement();
 	// Goto_statement();
 
+	// Struct();
+
 }

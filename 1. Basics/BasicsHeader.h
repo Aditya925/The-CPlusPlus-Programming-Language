@@ -10,3 +10,4 @@ void Loops();
 void Break_statement();
 void Continue_statement();
 void Goto_statement();
+void Struct();
