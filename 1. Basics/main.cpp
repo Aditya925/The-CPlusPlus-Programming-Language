@@ -19,5 +19,6 @@ int main() {
 	// Goto_statement();
 
 	// Struct();
-
+	
+	// Static_Display();
 }

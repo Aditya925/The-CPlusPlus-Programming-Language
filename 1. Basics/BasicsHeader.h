@@ -11,3 +11,4 @@ void Break_statement();
 void Continue_statement();
 void Goto_statement();
 void Struct();
+void Static_Display();
