@@ -21,4 +21,5 @@ int main() {
 	// Struct();
 	
 	// Static_Display();
+	Enumeration();
 }
