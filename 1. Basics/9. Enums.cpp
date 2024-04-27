@@ -2,7 +2,7 @@ import <iostream>;
 #include "BasicsHeader.h"
 
 /*
-	-> An enumeration is a user-defined data type that consists of integral constants. To define an 
+    -> An enumeration is a user-defined data type that consists of integral constants. To define an 
 	   enumeration, keyword enum is used.
 */
 
