@@ -7,5 +7,6 @@ int main() {
 	// Inside_Class();
 	// Outside_Class();
 	// Parameters();
-	Static_Class();
+	// Static_Class();
+	// Constructors();
 }
