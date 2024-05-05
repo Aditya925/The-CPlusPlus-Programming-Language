@@ -10,4 +10,5 @@ int main() {
 	// Static_Class();
 	// Constructors();
 	// Destructor();
+	// Inheritance();
 }

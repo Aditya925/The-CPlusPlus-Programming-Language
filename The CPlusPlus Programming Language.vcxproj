@@ -147,6 +147,7 @@
     <ClCompile Include="3. Object Oriented Programming\3. Static.cpp" />
     <ClCompile Include="3. Object Oriented Programming\4. Constructors.cpp" />
     <ClCompile Include="3. Object Oriented Programming\5. Destructors.cpp" />
+    <ClCompile Include="3. Object Oriented Programming\6. Inheritance.cpp" />
     <ClCompile Include="3. Object Oriented Programming\main.cpp" />
   </ItemGroup>
   <ItemGroup>
