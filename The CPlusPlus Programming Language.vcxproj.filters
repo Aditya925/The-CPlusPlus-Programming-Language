@@ -72,7 +72,7 @@
     <ClCompile Include="3. Object Oriented Programming\5. Destructors.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3. Object Oriented Programming\6. Inheritance.cpp">
+    <ClCompile Include="3. Object Oriented Programming\6. Single Inheritance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="3. Object Oriented Programming\7. Multiple Inheritance.cpp">
