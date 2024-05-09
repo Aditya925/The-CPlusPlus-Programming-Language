@@ -75,6 +75,9 @@
     <ClCompile Include="3. Object Oriented Programming\6. Inheritance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3. Object Oriented Programming\7. Multiple Inheritance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1. Basics\BasicsHeader.h">

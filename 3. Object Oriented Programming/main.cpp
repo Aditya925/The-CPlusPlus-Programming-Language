@@ -11,4 +11,5 @@ int main() {
 	// Constructors();
 	// Destructor();
 	// Inheritance();
+	// Multiple_Inheritance();
 }

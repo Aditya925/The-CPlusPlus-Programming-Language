@@ -10,3 +10,4 @@ int Static_Class();
 int Constructors();
 int Destructor();
 int Inheritance();
+int Multiple_Inheritance();
