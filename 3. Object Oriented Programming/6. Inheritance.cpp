@@ -38,3 +38,18 @@ int Inheritance(){
 
 	return 0;
 }
+
+/*
+	Modes of Inheritance: There are 3 modes of inheritance.
+
+	1. Public Mode:    If we derive a subclass from a public base class. Then the public member of 
+	                   the base class will become public in the derived class and protected members 
+					   of the base class will become protected in the derived class.
+
+	2. Protected Mode: If we derive a subclass from a Protected base class. Then both public 
+					   members and protected members of the base class will become protected in the 
+					   derived class.
+
+	3. Private Mode:   If we derive a subclass from a Private base class. Then both public members and 
+	                   protected members of the base class will become Private in the derived class.
+*/
