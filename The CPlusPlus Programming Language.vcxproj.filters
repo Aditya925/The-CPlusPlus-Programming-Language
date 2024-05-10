@@ -84,6 +84,9 @@
     <ClCompile Include="3. Object Oriented Programming\9. Hierarchical Inheritance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3. Object Oriented Programming\10. Virtual Functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1. Basics\BasicsHeader.h">

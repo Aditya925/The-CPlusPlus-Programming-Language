@@ -14,4 +14,5 @@ int main() {
 	// Multiple_Inheritance();
 	// Multilevel_Inheritance();
 	// Hierarchical_Inheritance();
+	// Virtual_Functions();
 }
