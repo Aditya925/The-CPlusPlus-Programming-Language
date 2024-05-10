@@ -1,9 +1,7 @@
 import <iostream>;
 #include "OopHeader.h"
 
-/*
-	In Multilevel inheritance, a derived class is created from another derived class.
-*/
+//	In Multilevel inheritance, a derived class is created from another derived class.
 
 class Animal{
     public:
