@@ -25,7 +25,7 @@ public:
     }
 };
 
-int main(){
+int Hierarchical_Inheritance(){
 
     Triangle triangle;      // Create Triangle object directly
     Square square;          // Create Square object directly

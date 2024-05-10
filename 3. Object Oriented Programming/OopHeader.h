@@ -12,3 +12,4 @@ int Destructor();
 int Inheritance();
 int Multiple_Inheritance();
 int Multilevel_Inheritance();
+int Hierarchical_Inheritance();

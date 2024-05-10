@@ -13,4 +13,5 @@ int main() {
 	// Inheritance();
 	// Multiple_Inheritance();
 	// Multilevel_Inheritance();
+	Hierarchical_Inheritance();
 }
