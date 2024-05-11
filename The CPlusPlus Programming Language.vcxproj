@@ -143,6 +143,7 @@
     <ClCompile Include="2. Memory Control\1. Pointers.cpp" />
     <ClCompile Include="2. Memory Control\2. References.cpp" />
     <ClCompile Include="2. Memory Control\3. Arrays.cpp" />
+    <ClCompile Include="2. Memory Control\4. New &amp; Delete.cpp" />
     <ClCompile Include="2. Memory Control\main.cpp" />
     <ClCompile Include="3. Object Oriented Programming\1. Classes.cpp" />
     <ClCompile Include="3. Object Oriented Programming\10. Virtual Functions.cpp" />

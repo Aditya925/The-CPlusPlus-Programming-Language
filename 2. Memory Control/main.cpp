@@ -6,4 +6,5 @@ int main() {
 	// Pointers();
 	// References();
 	// Arrays();
+	Dynamic();
 }
