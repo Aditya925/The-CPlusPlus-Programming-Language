@@ -96,6 +96,9 @@
     <ClCompile Include="2. Memory Control\4. New &amp; Delete.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2. Memory Control\5. Operator Overloading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1. Basics\BasicsHeader.h">
