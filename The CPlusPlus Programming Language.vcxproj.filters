@@ -90,6 +90,9 @@
     <ClCompile Include="2. Memory Control\3. Arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1. Basics\10. Strings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1. Basics\BasicsHeader.h">

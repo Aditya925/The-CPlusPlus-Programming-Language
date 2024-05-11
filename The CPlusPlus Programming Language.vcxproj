@@ -130,6 +130,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1. Basics\1. Variables.cpp" />
+    <ClCompile Include="1. Basics\10. Strings.cpp" />
     <ClCompile Include="1. Basics\2. DataTypes.cpp" />
     <ClCompile Include="1. Basics\3. Functions.cpp" />
     <ClCompile Include="1. Basics\4. Conditions.cpp" />
